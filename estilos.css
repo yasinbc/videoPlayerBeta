@@ -1,0 +1,16 @@
+body{
+	margin: 0px;
+	text-align: center;
+}
+
+
+
+#video{
+	width: 500px;
+	height: 350px;
+	background: blue;
+	padding: 20px;
+	margin: 2px;
+	border: green 2px solid;
+}
+
